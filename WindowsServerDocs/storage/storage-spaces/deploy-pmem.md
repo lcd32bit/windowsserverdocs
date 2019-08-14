@@ -57,7 +57,7 @@ The table below shows supported persistent memory hardware for Windows Server 20
 |-------------------------------------------------------------------|--------------------------|--------------------------|
 | **NVDIMM-N** in App-Direct Mode                                       | Supported                | Supported                |
 | **Intel Optane™ DC Persistent Memory** in App-Direct Mode             | Not Supported            | Supported                |
-| **Intel Optane™ DC Persistent Memory** in Two-Level-Memory Mode (2LM) | Not Supported            | Supported                |
+| **Intel Optane™ DC Persistent Memory** in Two-Level-Memory Mode (2LM) | Supported            | Supported                |
 
 Now, let's dive into how you configure persistent memory.
 
